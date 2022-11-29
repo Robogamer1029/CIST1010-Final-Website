@@ -83,6 +83,12 @@ img.socials{
     width:40px;
     margin:10px;
 }
+img.maxsize{
+    width:75%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
 img.centerimage{
     height:60%;
     border-radius:10px;
